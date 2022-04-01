@@ -7,5 +7,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i'm lazy programmer
 
-<img src="https://github-readme-stats.vercel.app/api?username=sagarmantur&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmantur"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sagarmantur&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmantur&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmantur&theme=dark"/>
