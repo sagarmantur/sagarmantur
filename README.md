@@ -1,7 +1,7 @@
 ### Hi, I'm Sagar Mantur 👋
 
 - 🔭 I’m currently working on Pheuna Technologies.
-- 🌱 I’m currently learning C and JavaScript.
+- 🌱 I’m currently learning Data Structure and Java.
 - 💬 Ask me about Web Development.
 - 📫 How to reach me: sagarsm2003@gmail.com
 - 😄 Pronouns: he/his
