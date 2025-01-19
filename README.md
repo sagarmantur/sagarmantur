@@ -9,7 +9,7 @@ I'm Sagar Mantur and I'm a front-end web developer with a passion for creating v
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My portfolio website](http://sagarmantur.me)
 * ✉️  You can contact me at [sagarsm2003@gmail.com](mailto:sagarsm2003@gmail.com )
-* 🧠  I'm learning JavaScript, C#
+* 🧠  I'm learning JavaScript, Python
 * 🤝  I'm open to collaborating on Web projects
 * ⚡  I'm lazy programmer
 
